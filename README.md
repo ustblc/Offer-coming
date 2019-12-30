@@ -8,7 +8,7 @@
 
 [1. 二维数组中的查找](https://github.com/ustblc/Offer-coming/blob/master/code/二维数组的查找.md)
 
-[2.数组中重复的数字](https://github.com/ustblc/Offer-coming/blob/master/数组中重复的数字.md)
+[2.数组中重复的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中重复的数字.md)
 
-[3.构建乘积数组](https://github.com/ustblc/Offer-coming/blob/master/构建乘积数组.md)
+[3.构建乘积数组](https://github.com/ustblc/Offer-coming/blob/master/code/构建乘积数组.md)
 
