@@ -26,3 +26,7 @@
 
 [4.字符流中第一个不重复的字符](https://github.com/ustblc/Offer-coming/blob/master/code/字符流中第一个不重复的字符.md)
 
+**栈和队列**
+
+[1.用两个栈实现队列](https://github.com/ustblc/Offer-coming/blob/master/code/用两个栈实现队列.md)
+
