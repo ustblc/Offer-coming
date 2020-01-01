@@ -10,23 +10,24 @@
 
 **数组**
 
-[1. 二维数组中的查找](https://github.com/ustblc/Offer-coming/blob/master/code/二维数组的查找.md)
+- [ 二维数组中的查找](https://github.com/ustblc/Offer-coming/blob/master/code/二维数组的查找.md)
 
-[2.数组中重复的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中重复的数字.md)
+- [数组中重复的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中重复的数字.md)
 
-[3.构建乘积数组](https://github.com/ustblc/Offer-coming/blob/master/code/构建乘积数组.md)
+- [构建乘积数组](https://github.com/ustblc/Offer-coming/blob/master/code/构建乘积数组.md)
 
 **字符串**
 
-[1.替换空格](https://github.com/ustblc/Offer-coming/blob/master/code/替换空格.md)
+- [替换空格](https://github.com/ustblc/Offer-coming/blob/master/code/替换空格.md)
 
-[2.正则表达式匹配](https://github.com/ustblc/Offer-coming/blob/master/code/正则表达式匹配.md)
+- [正则表达式匹配](https://github.com/ustblc/Offer-coming/blob/master/code/正则表达式匹配.md)
 
-[3.表达数值的字符串](https://github.com/ustblc/Offer-coming/blob/master/code/表达数值的字符串.md)
+- [表达数值的字符串](https://github.com/ustblc/Offer-coming/blob/master/code/表达数值的字符串.md)
 
-[4.字符流中第一个不重复的字符](https://github.com/ustblc/Offer-coming/blob/master/code/字符流中第一个不重复的字符.md)
+- [字符流中第一个不重复的字符](https://github.com/ustblc/Offer-coming/blob/master/code/字符流中第一个不重复的字符.md)
 
 **栈和队列**
 
-[1.用两个栈实现队列](https://github.com/ustblc/Offer-coming/blob/master/code/用两个栈实现队列.md)
+- [用两个栈实现队列](https://github.com/ustblc/Offer-coming/blob/master/code/用两个栈实现队列.md)
 
+- [滑动窗口最大值](https://github.com/ustblc/Offer-coming/blob/master/code/滑动窗口最大值.md)
