@@ -31,3 +31,7 @@
 - [用两个栈实现队列](https://github.com/ustblc/Offer-coming/blob/master/code/用两个栈实现队列.md)
 
 - [滑动窗口最大值](https://github.com/ustblc/Offer-coming/blob/master/code/滑动窗口最大值.md)
+
+##### 链表
+
+- [从尾到头打印链表](https://github.com/ustblc/Offer-coming/blob/master/code/从尾到头打印链表.md)
