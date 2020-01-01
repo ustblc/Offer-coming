@@ -4,6 +4,8 @@
 
 另外本人博客：https://cblog.club/ ，主要会写一些相关题解和平时的学习内容。
 
+各位同学如果有一点点收获，麻烦您给个star吧，谢谢~！
+
 #### 题目列表(按照考查内容分类)
 
 **数组**
@@ -21,3 +23,6 @@
 [2.正则表达式匹配](https://github.com/ustblc/Offer-coming/blob/master/code/正则表达式匹配.md)
 
 [3.表达数值的字符串](https://github.com/ustblc/Offer-coming/blob/master/code/表达数值的字符串.md)
+
+[4.字符流中第一个不重复的字符](https://github.com/ustblc/Offer-coming/blob/master/code/字符流中第一个不重复的字符.md)
+
