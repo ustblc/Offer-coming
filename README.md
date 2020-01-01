@@ -8,7 +8,7 @@
 
 #### 题目列表(按照考查内容分类)
 
-**数组**
+数组
 
 - [ 二维数组中的查找](https://github.com/ustblc/Offer-coming/blob/master/code/二维数组的查找.md)
 
@@ -16,7 +16,7 @@
 
 - [构建乘积数组](https://github.com/ustblc/Offer-coming/blob/master/code/构建乘积数组.md)
 
-**字符串**
+字符串
 
 - [替换空格](https://github.com/ustblc/Offer-coming/blob/master/code/替换空格.md)
 
@@ -26,7 +26,7 @@
 
 - [字符流中第一个不重复的字符](https://github.com/ustblc/Offer-coming/blob/master/code/字符流中第一个不重复的字符.md)
 
-**栈和队列**
+栈和队列
 
 - [用两个栈实现队列](https://github.com/ustblc/Offer-coming/blob/master/code/用两个栈实现队列.md)
 
