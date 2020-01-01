@@ -14,3 +14,10 @@
 
 [3.构建乘积数组](https://github.com/ustblc/Offer-coming/blob/master/code/构建乘积数组.md)
 
+**字符串**
+
+[1.替换空格](https://github.com/ustblc/Offer-coming/blob/master/code/替换空格.md)
+
+[2.正则表达式匹配](https://github.com/ustblc/Offer-coming/blob/master/code/正则表达式匹配.md)
+
+[3.表达数值的字符串](https://github.com/ustblc/Offer-coming/blob/master/code/表达数值的字符串.md)
