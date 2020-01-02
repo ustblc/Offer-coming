@@ -37,3 +37,9 @@
 - [从尾到头打印链表](https://github.com/ustblc/Offer-coming/blob/master/code/从尾到头打印链表.md)
 - [链表中环的入口结点](https://github.com/ustblc/Offer-coming/blob/master/code/链表中环的入口结点.md)
 - [删除链表中重复的结点](https://github.com/ustblc/Offer-coming/blob/master/code/删除链表中重复的结点.md)
+
+##### 回溯
+
+- [矩阵中的路径](https://github.com/ustblc/Offer-coming/blob/master/code/矩阵中的路径.md)
+
+- [机器人的运动范围](https://github.com/ustblc/Offer-coming/blob/master/code/机器人的运动范围md)
