@@ -47,3 +47,7 @@
 
 - [重建二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/重建二叉树.md)
 
+- [对称的二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/对称的二叉树.md)
+- [把二叉树打印成多行](https://github.com/ustblc/Offer-coming/blob/master/code/把二叉树打印成多行.md)
+- [按之字形顺序打印二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/按之字形顺序打印二叉树.md)
+- [二叉树的下一个结点](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树的下一个结点.md)
