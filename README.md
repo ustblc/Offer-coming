@@ -41,5 +41,8 @@
 ##### 回溯
 
 - [矩阵中的路径](https://github.com/ustblc/Offer-coming/blob/master/code/矩阵中的路径.md)
+- [机器人的运动范围](https://github.com/ustblc/Offer-coming/blob/master/code/机器人的运动范围.md)
 
-- [机器人的运动范围](https://github.com/ustblc/Offer-coming/blob/master/code/机器人的运动范围md)
+##### 二叉树
+
+- [重建二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/重建二叉树.md)
