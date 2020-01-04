@@ -51,3 +51,9 @@
 - [按之字形顺序打印二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/按之字形顺序打印二叉树.md)
 - [二叉树的下一个结点](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树的下一个结点.md)
 - [二叉搜索树的第K个结点](https://github.com/ustblc/Offer-coming/blob/master/code/二叉搜索树的第K个结点.md)
+- [数据流中的中位数](https://github.com/ustblc/Offer-coming/blob/master/code/数据流中的中位数.md)
+- [序列化二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/序列化二叉树.md)
+
+##### 动态规划和贪心算法
+
+- [剪绳子](https://github.com/ustblc/Offer-coming/blob/master/code/剪绳子.md)
