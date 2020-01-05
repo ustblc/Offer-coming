@@ -58,6 +58,10 @@
 
 - [剪绳子](https://github.com/ustblc/Offer-coming/blob/master/code/剪绳子.md)
 
-##### 面试的思路
+##### 面试思路
 
 - [二叉树的镜像](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树的镜像.md)
+
+##### 画图让抽象形象化
+
+- [顺时针打印矩阵](https://github.com/ustblc/Offer-coming/blob/master/code/顺时针打印矩阵.md)
