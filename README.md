@@ -65,3 +65,5 @@
 ##### 画图让抽象形象化
 
 - [顺时针打印矩阵](https://github.com/ustblc/Offer-coming/blob/master/code/顺时针打印矩阵.md)
+- [栈的压入和弹出序列](https://github.com/ustblc/Offer-coming/blob/master/code/栈的压入和弹出序列.md)
+- [从上往下打印二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/从上往下打印二叉树.md)
