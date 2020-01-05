@@ -57,3 +57,7 @@
 ##### 动态规划和贪心算法
 
 - [剪绳子](https://github.com/ustblc/Offer-coming/blob/master/code/剪绳子.md)
+
+##### 面试的思路
+
+- [二叉树的镜像](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树的镜像.md)
