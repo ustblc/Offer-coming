@@ -65,5 +65,22 @@
 ##### 画图让抽象形象化
 
 - [顺时针打印矩阵](https://github.com/ustblc/Offer-coming/blob/master/code/顺时针打印矩阵.md)
+
+##### 举例让抽象形象化
+
 - [栈的压入和弹出序列](https://github.com/ustblc/Offer-coming/blob/master/code/栈的压入和弹出序列.md)
 - [从上往下打印二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/从上往下打印二叉树.md)
+- [包含min函数的栈](https://github.com/ustblc/Offer-coming/blob/master/code/包含min函数的栈.md)
+- [二叉搜索树的后序遍历序列](https://github.com/ustblc/Offer-coming/blob/master/code/二叉搜索树的后序遍历序列.md)
+- [二叉树中和为某一值的路径](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树中和为某一值的路径.md)
+
+##### 递归与循环
+
+- [斐波那契数列](https://github.com/ustblc/Offer-coming/blob/master/code/斐波那契数列.md)
+- [跳台阶](https://github.com/ustblc/Offer-coming/blob/master/code/跳台阶.md)
+- [变态跳台阶](https://github.com/ustblc/Offer-coming/blob/master/code/变态跳台阶.md)
+- [矩形覆盖](https://github.com/ustblc/Offer-coming/blob/master/code/矩形覆盖.md)
+
+##### 抽象建模能力
+
+- [扑克牌顺子](https://github.com/ustblc/Offer-coming/blob/master/code/扑克牌顺子.md)
