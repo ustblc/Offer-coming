@@ -84,3 +84,16 @@
 ##### 抽象建模能力
 
 - [扑克牌顺子](https://github.com/ustblc/Offer-coming/blob/master/code/扑克牌顺子.md)
+
+##### 知识迁移能力
+
+- [数组中只出现一次的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中只出现一次的数字.md)
+- [和为S的两个数字](https://github.com/ustblc/Offer-coming/blob/master/code/和为S的两个数字.md)
+- [和为S的连续正数序列](https://github.com/ustblc/Offer-coming/blob/master/code/和为S的连续正数序列.md)
+- [翻转单词顺序列](https://github.com/ustblc/Offer-coming/blob/master/code/反转单词顺序列.md)
+
+##### 时间效率
+
+- [连续子数组的最大和](https://github.com/ustblc/Offer-coming/blob/master/code/连续子数组的最大和.md)
+- [最小的K个数](https://github.com/ustblc/Offer-coming/blob/master/code/最小的K个数.md)
+- [数组中出现次数超过一半的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中出现次数超过一半的数字.md)
