@@ -100,3 +100,9 @@
 - [连续子数组的最大和](https://github.com/ustblc/Offer-coming/blob/master/code/连续子数组的最大和.md)
 - [最小的K个数](https://github.com/ustblc/Offer-coming/blob/master/code/最小的K个数.md)
 - [数组中出现次数超过一半的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中出现次数超过一半的数字.md)
+
+##### 代码的鲁棒性
+
+- [链表中倒数第K个结点](https://github.com/ustblc/Offer-coming/blob/master/code/链表中倒数第K个结点.md)
+- [反转链表](https://github.com/ustblc/Offer-coming/blob/master/code/反转链表.md)
+- [合并两个排序的链表](https://github.com/ustblc/Offer-coming/blob/master/code/合并两个排序的链表.md)
