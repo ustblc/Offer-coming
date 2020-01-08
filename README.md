@@ -91,6 +91,9 @@
 - [和为S的两个数字](https://github.com/ustblc/Offer-coming/blob/master/code/和为S的两个数字.md)
 - [和为S的连续正数序列](https://github.com/ustblc/Offer-coming/blob/master/code/和为S的连续正数序列.md)
 - [翻转单词顺序列](https://github.com/ustblc/Offer-coming/blob/master/code/反转单词顺序列.md)
+- [二叉树的深度](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树的深度.md)
+- [平衡二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/平衡二叉树.md)
+- [数字在排序数组中出现的次数](https://github.com/ustblc/Offer-coming/blob/master/code/数字在排序数组中出现的次数.md)
 
 ##### 时间效率
 
