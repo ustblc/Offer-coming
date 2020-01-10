@@ -106,3 +106,22 @@
 - [链表中倒数第K个结点](https://github.com/ustblc/Offer-coming/blob/master/code/链表中倒数第K个结点.md)
 - [反转链表](https://github.com/ustblc/Offer-coming/blob/master/code/反转链表.md)
 - [合并两个排序的链表](https://github.com/ustblc/Offer-coming/blob/master/code/合并两个排序的链表.md)
+- [树的子结构](https://github.com/ustblc/Offer-coming/blob/master/code/树的子结构.md)
+
+##### 位运算
+
+- [二进制中1的个数](https://github.com/ustblc/Offer-coming/blob/master/code/二进制中1的个数.md)
+
+##### 综合
+
+- [把字符串转换成整数](https://github.com/ustblc/Offer-coming/blob/master/code/把字符串转换成整数.md)
+
+##### 发散思维能力
+
+- [求1+2+3+...+n](https://github.com/ustblc/Offer-coming/blob/master/code/求1+2+3+...+n.md)
+- [不用加减乘除做加法](https://github.com/ustblc/Offer-coming/blob/master/code/不用加减乘除做加法.md)
+
+##### 代码的完整性
+
+- [数值的整数次方](https://github.com/ustblc/Offer-coming/blob/master/code/数值的整数次方.md)
+- [调整数组顺序使奇数位于偶数前面](https://github.com/ustblc/Offer-coming/blob/master/code/调整数组顺序使奇数位于偶数前面.md)
