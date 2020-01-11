@@ -84,6 +84,7 @@
 ##### 抽象建模能力
 
 - [扑克牌顺子](https://github.com/ustblc/Offer-coming/blob/master/code/扑克牌顺子.md)
+- [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/ustblc/Offer-coming/blob/master/code/孩子们的游戏(圆圈中最后剩下的数).md)
 
 ##### 知识迁移能力
 
@@ -100,6 +101,14 @@
 - [连续子数组的最大和](https://github.com/ustblc/Offer-coming/blob/master/code/连续子数组的最大和.md)
 - [最小的K个数](https://github.com/ustblc/Offer-coming/blob/master/code/最小的K个数.md)
 - [数组中出现次数超过一半的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中出现次数超过一半的数字.md)
+- [把数组排成最小的数](https://github.com/ustblc/Offer-coming/blob/master/code/把数组排成最小的数.md)
+
+##### 时间空间效率的平衡
+
+- [丑数](https://github.com/ustblc/Offer-coming/blob/master/code/丑数.md)
+- [两个链表的第一个公共节点](https://github.com/ustblc/Offer-coming/blob/master/code/两个链表的第一个公共节点.md)
+- [第一个只出现一次的字符](https://github.com/ustblc/Offer-coming/blob/master/code/第一个只出现一次的字符.md)
+- [两个链表的第一个公共节点](https://github.com/ustblc/Offer-coming/blob/master/code/两个链表的第一个公共节点.md)
 
 ##### 代码的鲁棒性
 
@@ -125,3 +134,9 @@
 
 - [数值的整数次方](https://github.com/ustblc/Offer-coming/blob/master/code/数值的整数次方.md)
 - [调整数组顺序使奇数位于偶数前面](https://github.com/ustblc/Offer-coming/blob/master/code/调整数组顺序使奇数位于偶数前面.md)
+
+##### 分解让复杂问题简单
+
+- [复杂链表的复制](https://github.com/ustblc/Offer-coming/blob/master/code/复杂链表的复制.md)
+- [二叉搜索树与双向链表](https://github.com/ustblc/Offer-coming/blob/master/code/二叉搜索树与双向链表.md)
+- [字符串的排列](https://github.com/ustblc/Offer-coming/blob/master/code/字符串的排列.md)
