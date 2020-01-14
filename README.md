@@ -42,6 +42,7 @@
 
 - [矩阵中的路径](https://github.com/ustblc/Offer-coming/blob/master/code/矩阵中的路径.md)
 - [机器人的运动范围](https://github.com/ustblc/Offer-coming/blob/master/code/机器人的运动范围.md)
+- [数字排列](https://github.com/ustblc/Offer-coming/blob/master/code/数字排列.md)
 
 ##### 二叉树
 
@@ -95,6 +96,7 @@
 - [二叉树的深度](https://github.com/ustblc/Offer-coming/blob/master/code/二叉树的深度.md)
 - [平衡二叉树](https://github.com/ustblc/Offer-coming/blob/master/code/平衡二叉树.md)
 - [数字在排序数组中出现的次数](https://github.com/ustblc/Offer-coming/blob/master/code/数字在排序数组中出现的次数.md)
+- [左旋转字符串](https://github.com/ustblc/Offer-coming/blob/master/code/左旋转字符串.md)
 
 ##### 时间效率
 
@@ -102,13 +104,14 @@
 - [最小的K个数](https://github.com/ustblc/Offer-coming/blob/master/code/最小的K个数.md)
 - [数组中出现次数超过一半的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数组中出现次数超过一半的数字.md)
 - [把数组排成最小的数](https://github.com/ustblc/Offer-coming/blob/master/code/把数组排成最小的数.md)
+- [从1到n整数中1的出现次数](https://github.com/ustblc/Offer-coming/blob/master/code/从1到n整数中1的出现次数.md)
 
 ##### 时间空间效率的平衡
 
 - [丑数](https://github.com/ustblc/Offer-coming/blob/master/code/丑数.md)
 - [两个链表的第一个公共节点](https://github.com/ustblc/Offer-coming/blob/master/code/两个链表的第一个公共节点.md)
 - [第一个只出现一次的字符](https://github.com/ustblc/Offer-coming/blob/master/code/第一个只出现一次的字符.md)
-- [两个链表的第一个公共节点](https://github.com/ustblc/Offer-coming/blob/master/code/两个链表的第一个公共节点.md)
+- [数组中的逆序对](https://github.com/ustblc/Offer-coming/blob/master/code/数组中的逆序对.md)
 
 ##### 代码的鲁棒性
 
@@ -140,3 +143,7 @@
 - [复杂链表的复制](https://github.com/ustblc/Offer-coming/blob/master/code/复杂链表的复制.md)
 - [二叉搜索树与双向链表](https://github.com/ustblc/Offer-coming/blob/master/code/二叉搜索树与双向链表.md)
 - [字符串的排列](https://github.com/ustblc/Offer-coming/blob/master/code/字符串的排列.md)
+
+##### 查找和排序
+
+- [旋转数组的最小数字](https://github.com/ustblc/Offer-coming/blob/master/code/旋转数组的最小数字.md)
