@@ -147,3 +147,14 @@
 ##### 查找和排序
 
 - [旋转数组的最小数字](https://github.com/ustblc/Offer-coming/blob/master/code/旋转数组的最小数字.md)
+
+##### ACwing剑指offer补充
+
+- [数字序列中某一位的数字](https://github.com/ustblc/Offer-coming/blob/master/code/数字序列中某一位的数字.md)
+- [礼物的最大价值](https://github.com/ustblc/Offer-coming/blob/master/code/礼物的最大价值.md)
+- [最长不包含重复字符的子字符串](https://github.com/ustblc/Offer-coming/blob/master/code/最长不包含重复字符的子字符串.md)
+- [0-n-1中缺失的数字](https://github.com/ustblc/Offer-coming/blob/master/code/0-n-1中缺失的数字.md)
+- [数组中数值和下标相等的元素](https://github.com/ustblc/Offer-coming/blob/master/code/数组中数值和下标相等的元素.md)
+- [骰子的点数](https://github.com/ustblc/Offer-coming/blob/master/code/骰子的点数.md)
+- [股票的最大利润](https://github.com/ustblc/Offer-coming/blob/master/code/股票的最大利润.md)
+
